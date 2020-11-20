@@ -1,17 +1,5 @@
 ### Hi 👋
 
-< 你好啊, 我是姬小野, 欢迎你访问我的Github >
- ------------------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-
 <!--
 **JameyWoo/JameyWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,21 @@
-### Hi 👋
+### Welcome👋
+
+```
+ ____________________
+< Hello, I'm 姬小野~ >
+ --------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=JameyWoo&show_icons=true&theme=radical)]()
 
 <!--
 **JameyWoo/JameyWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

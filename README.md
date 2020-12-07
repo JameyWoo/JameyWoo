@@ -1,19 +1,5 @@
 ### Welcome👋
 
-```
- ____________________
-< Hello, I'm 姬小野~ >
- --------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-```
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=JameyWoo&show_icons=true&theme=radical)]()
 
@@ -31,3 +17,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+  ┏┓　　　┏┓
+┏┛┻━━━┛┻┓
+┃　　　　　　　┃
+┃　　　━　　　┃
+┃　＞　　　＜　┃
+┃　　　　　　　┃
+┃...　⌒　...　┃
+┃　　　　　　　┃
+┗━┓　　　┏━┛
+    ┃　　　┃　
+    ┃　　　┃
+    ┃　　　┃
+    ┃　　　┃  神兽保佑
+    ┃　　　┃  代码无bug　　
+    ┃　　　┃
+    ┃　　　┗━━━┓
+    ┃　　　　　　　┣┓
+    ┃　　　　　　　┏┛
+    ┗┓┓┏━┳┓┏┛
+      ┃┫┫　┃┫┫
+      ┗┻┛　┗┻┛
+```
